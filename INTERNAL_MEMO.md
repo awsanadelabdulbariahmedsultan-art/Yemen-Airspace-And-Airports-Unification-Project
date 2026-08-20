@@ -26,6 +26,37 @@
 توافق الهيئة على الآلية التشغيلية لربط وحجز كافة عوائد رسوم العبور الجوي والهبوط في حساب مالي مستقل وخاص بالهيئة (صنعاء وعدن بالتكامل)، على أن تُخصص هذه الموارد حصراً لتطوير الأنظمة الملاحية وصيانة المدارج وصرف مستحقات الكوادر الفنية والهندسية اليمنية لضمان استدامة التشغيل.
 
 ---
+# 📑 البنود الأربعة التنفيذية للمذكرة الفنية الداخلية
+> **الإطار التشغيلي المباشر لساعة الصفر - مجهز ومعد تحت إشراف المهندس أوسان عادل عبد الباري أحمد سلطان**
+
+---
+
+### [البند الأول]: التوحيد التقني الفوري لإقليم معلومات الطيران (FIR)
+* **المضمون التشغيلي:** الإقرار الفني القاطع بأن الأجواء اليمنية تشكل وحدة ملاحية وإقليمية واحدة غير قابلة للتجزئة.
+* **الآلية التنفيذية:** البدء الفوري والليلة بربط ومزامنة بيانات الرادار والاتصالات والمراقبة الجوية بين مركزي التحكم الرئيسييين في (صنعاء وعدن) عبر شبكة سحابية مشفرة وموحدة، مع إنشاء "غرفة العمليات المشتركة" وتخصيص المقعد الدائم للمراقب الفني الدولي التابع لمنظمة (**ICAO**) لضمان أمن الملاحة العابرة.
+
+---
+
+### [البند الثاني]: التحييد العسكري الشامل وحصانة حرم المطارات والمسارات
+* **المضمون التشغيلي:** إخلاء وتأمين كافة المطارات المدنية اليمنية والمسارات الجوية وتوفير حماية كاملة لها.
+* **الآلية التنفيذية:** فرض حظر ومصادرة متبادلة وتامة لأي مظاهر عسكرية، أو مخازن سلاح، أو عمليات حربية، أو منصات إطلاق داخل الحرم والمحيط الجغرافي لجميع المطارات (صنعاء الدولي، صنعاء الجديد بجدر، عدن، تعز، الحديدة، سيئون، الريان، المخا، الغيضة، عتق، وسقطرى)، وحماية الأجواء من وسائل الحرب الإلكترونية لضمان سلامة الخطوط العالمية والمسافرين.
+
+---
+
+### [البند الثاني مكرر / الثالث]: السيادة المالية وحجز وعاء الإيرادات (Ring-Fencing)
+* **المضمون التشغيلي:** منح الهيئة العامة للطيران المدني والأرصاد (**CAMA**) استقلالاً مالياً وإدارياً مطلقاً لحماية عوائد القطاع.
+* **الآلية التنفيذية:** إلزام كافة الأطراف بتوريد وحجز **100% من عوائد رسوم العبور الجوي الدولي**، ورسوم الهبوط والإقلاع، في حساب بنكي سيادي ومستقل تدار أمواله بشكل شفاف ومشترك، على أن تُخصص هذه الأموال حصرياً لغرضين: تحديث وصيانة الأنظمة الملاحية والمدارج، وصرف مرتبات ومستحقات المهندسين والكوادر الفنية اليمنية بانتظام.
+
+---
+
+### [البند الرابع]: التفعيل الإجرائي العاجل للرحلات الدولية والوفود (Hour-Zero Gate)
+* **المضمون التشغيلي:** تفعيل النفاذ والتشغيل المباشر للمطارات ورفع القيود السابقة بالتنسيق الإقليمي والدولي.
+* **الآلية التنفيذية:** التنسيق اللحظي الليلة لإصدار "تصاريح الهبوط الفورية والاستثنائية" لطائرات الوفود الدبلوماسية الرسمية القادمة من **سلطنة عُمان الشقيقة** و**المملكة العربية السعودية** المتوقع وصولها ظهر غدٍ الجمعة 21 أغسطس 2026 إلى مطار صنعاء الدولي، مع بث إشعار الـ **NOTAM** الدولي عبر مكتب الـ ICAO الإقليمي بالقاهرة لإعلان فتح الأجواء ورفع الحظر رسمياً.
+
+---
+*تم تأكيد البنود الأربعة ومراجعتها فنيّاً لبدء الاعتماد السياسي والتنفيذ الفوري المباشر.*
+
+---
 
 ### ⚡ توجيه إجرائي طارئ (ساعة الصفر):
 
@@ -72,6 +103,38 @@ CAMA officially pledges to supervise and enforce the deployment of "Article II" 
 
 #### 3️⃣ Activation of the Sovereign Ring-Fenced Financial Account
 CAMA approves the operational mechanism to deposit and isolate all overflight, transition, and landing fees into a centralized, independent bank account managed jointly and transparently. These funds are legally locked and shall be strictly reinvested into updating navigational systems, runway maintenance, and discharging the payroll of Yemeni technical and engineering cadres to ensure long-term operational sustainability.
+
+---
+# 📑 THE FOUR EXECUTIVE ARTICLES OF THE TECHNICAL MEMORANDUM
+> **Immediate Hour-Zero Operational Framework — Formulated Under the Technical Oversight of Eng. Osan Adel Abdulbari Ahmed Sultan**
+
+---
+
+### [ARTICLE 1]: IMMEDIATE TECHNICAL UNIFICATION OF THE FLIGHT INFORMATION REGION (FIR)
+* **Operational Substance:** Definitive technical acknowledgement that Yemeni airspace constitutes a single, indivisible navigational unit that cannot be partitioned under any circumstances.
+* **Executive Mechanism:** Immediate deployment tonight to link, synchronize, and mirror all radar data, telecommunications, and air traffic control matrices between the two primary area control centers (Sana'a and Aden) via a secure, unified cloud network. This includes the immediate establishment of the "Joint Technical Operational Room" and reserving the permanent desk for the active **ICAO** Technical Observer to secure international overflight navigation.
+
+---
+
+### [ARTICLE 2]: COMPREHENSIVE MILITARY DEMILITARIZATION & AIRPORT PERIMETER IMMUNITY
+* **Operational Substance:** Evacuation, securing, and absolute safeguarding of all civilian Yemeni airports and international flight corridors to provide maximum safety for global commercial aviation.
+* **Executive Mechanism:** Enforcement of a strict, reciprocal, and complete ban on any military presence, tactical asset storage, hostile operations, or launch platforms within the geographical boundaries and perimeters of all designated airports (Sana'a International, New Sana'a Airport in Jadr, Aden, Taiz, Hodeidah, Seiyun, Riyan, Al Mokha, Al Ghaydah, Ataq, and Socotra). Furthermore, all commercial flight tracks are legally immunized against any forms of electronic warfare or signal jamming to guarantee the safety of global airlines and passengers.
+
+---
+
+### [ARTICLE 3]: FISCAL SOVEREIGNTY & FINANCIAL RING-FENCING OF REVENUES
+* **Operational Substance:** Granting the Civil Aviation and Meteorology Authority (**CAMA**) absolute, unrestricted financial and administrative autonomy to protect and isolate the sector's yields.
+* **Executive Mechanism:** Absolute legal obligation binding all domestic parties to deposit and ring-fence **100% of international overflight fees**, transition revenues, and landing/takeoff charges into a single, sovereign, independent bank account managed with complete transparency. These collected funds are legally locked and shall be strictly reinvested into only two designated tracks: updating and maintaining navigational systems/runways, and discharging the regular monthly payroll of Yemeni engineering and technical cadres to guarantee long-term operational sustainability.
+
+---
+
+### [ARTICLE 4]: FAST-TRACK EXECUTIVE GATEWAY FOR INTERNATIONAL FLIGHTS & DELEGATIONS
+* **Operational Substance:** Instant activation of international operational clearance and lifting all prior restrictions via direct regional and international technical synchronization.
+* **Executive Mechanism:** Immediate real-time coordination tonight to issue exceptional landing clearances for the inbound official diplomatic aircraft transporting the brotherly delegations from the **Sultanate of Oman** and the **Kingdom of Saudi Arabia**, expected to touch down tomorrow, Friday noon, August 21, 2026, at Sana'a International Airport. This will be synchronized with broadcasting the global **NOTAM** alert through the ICAO Regional Office in Cairo to declare the immediate, unrestricted reopening of Yemeni skies to the world.
+
+---
+*These Four Executive Articles are officially verified and locked for political sign-off and immediate hour-zero deployment.*
+
 
 ---
 
