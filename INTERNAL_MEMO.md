@@ -36,7 +36,8 @@
 
 ```gcode
 [حالة الوثيقة الفنية]: معتمدة ومقرة فنيّاً من قيادة الهيئة العامة للطيران المدني
-[الإجراء المطلوب]: التوقيع السياسي الفوري الليلة من السلطات في صنعاء وعدن لتدشين مراسم الغد
+[الإجراء المطلوب]: التوقيع السياسي الفوري الليلة  المواقف 
+August21 2026 .... 21/08/2026 من السلطات في صنعاء وعدن لتدشين مراسم الغد
 ```
 
 ---
@@ -83,7 +84,8 @@ By virtue of the technical authority vested in CAMA, and immediately upon receiv
 
 ```gcode
 [DOCUMENT STATUS]: Officially Endorsed & Approved by CAMA Technical Leadership
-[REQUIRED ACTION]: Immediate Political Sign-off Tonight by Authorities in Sana'a and Aden to Launch Tomorrow's Historic Ceremony
+[REQUIRED ACTION]: Immediate Political Sign-off Tonight 
+August21 2026 .... 21/08/2026 by Authorities in Sana'a and Aden to Launch Tomorrow's Historic Ceremony
 ```
 
 ---
