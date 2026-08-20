@@ -106,7 +106,7 @@ August21 2026 .... 21/08/2026
   من_الساعة_12_إلى_24:
     الإجراء_المطلوب: "النشر الرقمي الفوري لخرائط المسارات الجوية المحدثة عبر تعميم الـ NOTAM الدولي لجميع الطيارين."
     الحالة: "إلزامي"
-  ساعة_الصفر_المستهدفة:
+  ساعة_الصفر_المستهدفة: August22 2026 .... 22/08/2026
     الإجراء_المطلوب: "الفتح الشامل للأجواء اليمنية وعودة حجز التذاكر التجارية الدولية وتفعيل عوائد رسوم العبور."
     الحالة: "بدء التشغيل الفعلي"
 ```
@@ -233,7 +233,7 @@ Timeline_Matrix: August21 2026 .... 21/08/2026
   Hour_12_to_24:
     Action: "Immediate digital publication of updated aeronautical routing maps via international NOTAM bulletins."
     Status: "MANDATORY"
-  Hour_24_Target:
+  Hour_24_Target: August22 2026 .... 22/08/2026
     Action: "Official resumption of global commercial ticketing and active overflight billing cycles over Yemeni Skies."
     Status: "GO-LIVE"
 ```
