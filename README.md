@@ -99,7 +99,7 @@ graph TD
 August21 2026 .... 21/08/2026
 
 ```yaml
-جدول_الخطوات_التنفيذية: 
+جدول_الخطوات_التنفيذية: August21 2026 .... 21/08/2026
   من_الساعة_00_إلى_12:
     الإجراء_المطلوب: "توقيع وثيقة اتفاقية تحييد الأجواء والمطارات فوراً من القيادات السياسية والفنية في صنعاء وعدن."
     الحالة: "حرج للغاية"
@@ -226,7 +226,7 @@ graph TD
 August21 2026 .... 21/08/2026
 
 ```yaml
-Timeline_Matrix:
+Timeline_Matrix: August21 2026 .... 21/08/2026
   Hour_00_to_12:
     Action: "Executive signature of the Airspace Neutralization Agreement by leadership in Sana'a and Aden."
     Status: "CRITICAL"
