@@ -82,7 +82,9 @@ The physical presence of a high-level joint delegation from the Sultanate of Oma
 
 * **The Omani Delegation:**
   * The Sultanate of Oman commands Royal Oman Air Force (ROAF) transport fleets and private state aircraft that possess established operational experience landing at Sana'a International Airport for diplomatic mediation and humanitarian missions.
-  * The delegation will depart from Muscat tomorrow morning, entering Yemeni airspace directly to land in Sana'a before Friday noon prayers.
+  * The delegation will depart from Muscat  (NEXT HOURS)
+, entering Yemeni airspace directly to land in Sana'a  (NEXT HOURS)
+
 
 * **The Saudi Delegation:**
   * Immediate logistical clearance will be synchronized tonight for a private Saudi state aircraft to depart concurrently with the Omani delegation, landing safely at Sana'a International Airport tomorrow at noon.
