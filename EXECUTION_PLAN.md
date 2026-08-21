@@ -8,7 +8,7 @@
 لتوقيع اتفاقية تحييد الأجواء والمطارات اليمنية وإعلان القرار رسمياً قبل انتهاء يوم غدٍ الجمعة 21 أغسطس 2026، يجب تفعيل القنوات المستعجلة التالية الليلة:
 
 ### 1. الاعتماد الرقمي الفوري (GitHub Launch)
-* بمجرد رفع ملف `README.md` باللغتين العربية والإنجليزية المجهز باسم المهندس (**Eng. Osan Adel Abdulbari Ahmed Sultan**)، يصبح هذا المستودع بمثابة "وثيقة عمل بيضاء وموحدة" (White Paper) معتمدة رسمياً.
+* بمجرد رفع ملف `README.md` باللغتين العربية والإنجليزية المجهز باسم المهندس (**Eng. Awsan Adel Abdulbari Ahmed Sultan**)، يصبح هذا المستودع بمثابة "وثيقة عمل بيضاء وموحدة" (White Paper) معتمدة رسمياً.
 * يتم مشاركة رابط المستودع فوراً عبر القنوات الرقمية السريعة مع اللجنة الفنية المشتركة لقطاع الطيران في صنعاء وعدن كمرجعية تقنية وحيدة وجاهزة للطباعة والتوقيع.
 
 ### 2. التفويض الفني المستعجل
@@ -61,7 +61,7 @@
 To execute the Airspace Neutralization Agreement and officially declare the reopening of all Yemeni airports before the absolute deadline of tomorrow, Friday, August 21, 2026, the following urgent channels must be activated tonight:
 
 ### 1. Immediate Digital Verification (GitHub Launch)
-* Upon committing the comprehensive `README.md` file in English and Arabic under the authority of **Eng. Osan Adel Abdulbari Ahmed Sultan (eng.AWSSN ADEL ABDULBARI AHMED SULTAN)**, this repository stands as the official, unified White Paper.
+* Upon committing the comprehensive `README.md` file in English and Arabic under the authority of **Eng. Osan Adel Abdulbari Ahmed Sultan (eng.AWSAN ADEL ABDULBARI AHMED SULTAN)**, this repository stands as the official, unified White Paper.
 * The repository link must be shared immediately via encrypted and fast-track communication channels with the Joint Technical Aviation Committee in both Sana'a and Aden to serve as the single source of truth for print and signature.
 
 ### 2. Fast-Track Technical Authorization
