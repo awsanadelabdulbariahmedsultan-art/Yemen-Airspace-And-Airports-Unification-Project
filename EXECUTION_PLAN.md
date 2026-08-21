@@ -43,7 +43,7 @@
   * يتم التأكيد على أن حضورهم خلال الساعات القادمة في مطار صنعاء كشهود وضامنين دوليين يمثل حجر الزاوية لإعلان فتح الأجواء ورفع الحظر رسمياً.
 
 * **تأمين التخليص الجوي الفوري (Clearance):**
-  * إصدار تصاريح هبوط فورية واستثنائية لطائرات الوفدين لتهبط في مطار صنعاء غداً قبل الظهر من قبل إدارتي المراقبة الجوية.
+  * إصدار تصاريح هبوط فورية واستثنائية لطائرات الوفدين لتهبط في مطار صنعاء خلال الساعات القادمة من قبل إدارتي المراقبة الجوية.
   * توجيه الطواقم الأرضية بمطار صنعاء بتجهيز صالة كبار الضيوف (قاعة التشريفات) وتأمينها بالكامل لتكون المقر الرسمي واللوجستي لالتقاء الوفود ومراسم التوقيع التاريخي.
 
 ---
@@ -76,9 +76,9 @@ To execute the Airspace Neutralization Agreement and officially declare the reop
 
 ## ✈️ PART 2: LOGISTICAL & DIPLOMATIC ARRANGEMENTS FOR THE OMANI & SAUDI DELEGATIONS
 
-The physical presence of a high-level joint delegation from the Sultanate of Oman and the Kingdom of Saudi Arabia tomorrow, Friday at noon, at Sana'a International Airport is fully viable logistically and politically. This presence constitutes the supreme international guarantee for the success of the agreement and its immediate deployment based on the following arrangements:
+The physical presence of a high-level joint delegation from the Sultanate of Oman and the Kingdom of Saudi Arabia NEXT HOURS, at Sana'a International Airport is fully viable logistically and politically. This presence constitutes the supreme international guarantee for the success of the agreement and its immediate deployment based on the following arrangements:
 
-### 1. Arrival Logistical Scenarios (Tomorrow, Friday at Noon)
+### 1. Arrival Logistical Scenarios (NEXT HOURS)
 
 * **The Omani Delegation:**
   * The Sultanate of Oman commands Royal Oman Air Force (ROAF) transport fleets and private state aircraft that possess established operational experience landing at Sana'a International Airport for diplomatic mediation and humanitarian missions.
@@ -87,7 +87,7 @@ The physical presence of a high-level joint delegation from the Sultanate of Oma
 
 
 * **The Saudi Delegation:**
-  * Immediate logistical clearance will be synchronized tonight for a private Saudi state aircraft to depart concurrently with the Omani delegation, landing safely at Sana'a International Airport tomorrow at noon.
+  * Immediate logistical clearance will be synchronized tonight for a private Saudi state aircraft to depart concurrently with the Omani delegation, landing safely at Sana'a International Airport NEXT HOURS.
   * *(Alternative Option):* Both delegations can converge and arrive as a unified joint diplomatic fleet departing via Omani airspace to maintain absolute synchronized security, routing, and political alignment prior to touchdown.
 
 ### 2. Mandatory Pre-requisites for the Noon Signing Ceremony
@@ -95,10 +95,10 @@ To ensure the flawless execution of the signing ceremony in front of regional an
 
 * **Dispatch of Urgent Technical Invitations:**
   * Active coordinating technical committees must establish real-time contact tonight with the Omani Envoy and the Saudi delegation, briefing them on the total technical readiness of the "Airspace and Airports Neutralization Agreement".
-  * It must be emphasized that their physical presence tomorrow at noon at Sana'a International Airport as international witnesses and guarantors is the absolute cornerstone for lifting the embargo and declaring open skies.
+  * It must be emphasized that their physical presence NEXT HOURS Sana'a International Airport as international witnesses and guarantors is the absolute cornerstone for lifting the embargo and declaring open skies.
 
 * **Immediate Flight and Landing Clearance:**
-  * Air Traffic Control (ATC) units in both sectors must instantly issue exceptional, immediate landing clearances for the inbound diplomatic aircraft to descend into Sana'a tomorrow before noon.
+  * Air Traffic Control (ATC) units in both sectors must instantly issue exceptional, immediate landing clearances for the inbound diplomatic aircraft to descend into Sana'a NEXT HOURS.
   * Ground handling crews and airport management at Sana'a International Airport are directed to fully prepare, secure, and isolate the Royal VIP Lounge (Ceremonial Hall) to serve as the official operational headquarters for the historic joint signing ceremony.
 
 ---
